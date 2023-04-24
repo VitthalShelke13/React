@@ -1,0 +1,7 @@
+export default function Header() {
+    return (
+        <header>
+            <h2>this is header component</h2>
+        </header>
+    )
+}
